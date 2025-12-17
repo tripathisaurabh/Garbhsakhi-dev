@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1764774415708",
+      "name": "Urshitha Sai",
+      "hospitalName": "T T K",
+      "email": "urshithasaittk@gmail.com",
+      "password": "Urshitha@1234",
+      "createdAt": "2025-12-03T15:06:55.708Z"
+    },
+    {
+      "id": "1765783627206",
+      "name": "saurbah",
+      "hospitalName": "asfd",
+      "email": "asdfaedf@gmail.com",
+      "password": "qwertyQW233@",
+      "createdAt": "2025-12-15T07:27:07.206Z"
+    }
+  ]
+}
